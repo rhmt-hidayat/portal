@@ -1,0 +1,82 @@
+[
+    {
+        "family": "Roboto",
+        "variants": [
+            "100",
+            "100italic",
+            "300",
+            "300italic",
+            "regular",
+            "italic",
+            "500",
+            "500italic",
+            "700",
+            "700italic",
+            "900",
+            "900italic"
+        ]
+    },
+    {
+        "family": "Yanone Kaffeesatz",
+        "variants": [
+            "200",
+            "300",
+            "regular",
+            "500",
+            "600",
+            "700"
+        ]
+    },
+    {
+        "family": "Open Sans",
+        "variants": [
+            "300",
+            "300italic",
+            "regular",
+            "italic",
+            "600",
+            "600italic",
+            "700",
+            "700italic",
+            "800",
+            "800italic"
+        ]
+    },
+    {
+        "family": "Roboto Slab",
+        "variants": [
+            "100",
+            "200",
+            "300",
+            "regular",
+            "500",
+            "600",
+            "700",
+            "800",
+            "900"
+        ]
+    },
+    {
+        "family": "Poppins",
+        "variants": [
+            "100",
+            "100italic",
+            "200",
+            "200italic",
+            "300",
+            "300italic",
+            "regular",
+            "italic",
+            "500",
+            "500italic",
+            "600",
+            "600italic",
+            "700",
+            "700italic",
+            "800",
+            "800italic",
+            "900",
+            "900italic"
+        ]
+    }
+]
